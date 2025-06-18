@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Hkcodes999<br>👀 I’m interested in coding<br>🌱 I’m currently learning web Development<br>💞️ I’m looking to collaborate on Future Project<br>📫 How to reach me on my contacts<br>⚡ Fun fact: I Like Learning Tech
+👋 Hi, I’m @Hkcodes999<br>👀 I’m interested in coding<br>🌱 I’m currently learning web Development<br>📧 I’m looking to collaborate on Future Project<br>📫 How to reach me on my contacts<br>⚡ Fun fact: I Like Learning Tech
 
 
 ## 🌐 Socials:
