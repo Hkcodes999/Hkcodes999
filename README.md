@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harekrishna+Manna+%F0%9F%91%8B;Full-Stack+Developer+%7C+React.js+%26+Node.js;Shipping+Production+Apps%2C+APIs+%26+Async+Workers;Mumbai%2C+India+%7C+Open+to+Full-Stack+Roles)](https://github.com/Hkcodes999)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harekrishna+Manna+%F0%9F%91%8B;Full-Stack+Developer+%7C+React.js+%26+Node.js;Shipping+Production+Apps%2C+APIs+%26+Async+Workers;)](https://github.com/Hkcodes999)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harekrishna-manna-22569736b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swmikrishna150@gmail.com)
