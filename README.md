@@ -7,28 +7,17 @@
 
 ---
 
-### `whoami.js`
+About Me
 
-```javascript
-const harekrishna = {
-  location: "Mumbai, India",
-  role: "Full-Stack Developer (React.js & Node.js)",
-  education: "B.Sc. IT — SIES College of Arts, Science & Commerce (2023 - 2026)",
-  experience: {
-    title: "Full Stack Web Development Intern",
-    company: "Zamanat Tech Solutions Pvt. Ltd.",
-    duration: "Nov 2025 - Nov 2026",
-    highlights: [
-      "Built zamanat.cloud — production EdTech & career-services platform",
-      "Integrated Google Gemini API for AI OJT drafts, auto-grading & moderation",
-      "Built PhonePe checkout & webhook pipelines backed by BullMQ + Redis workers",
-      "Engineered QR-verified, tamper-evident PDF certificates (Puppeteer & PDFKit)",
-      "Self-hosted on Ubuntu VPS behind Nginx reverse proxy, SSL/TLS & PM2",
-    ],
-  },
-  availability: "Immediate Joiner — Open to Full-Stack Developer Roles",
-};
-```
+I'm a Full-Stack Developer based in Mumbai, India, focused on building fast, reliable, production-ready web applications with React.js and Node.js. I enjoy owning the full engineering lifecycle—from crafting smooth, interactive user interfaces to architecting secure APIs, asynchronous worker queues, payment pipelines, and self-hosted Linux deployments.
+
+Over the past year, I worked as a Full Stack Web Development Intern at Zamanat Tech Solutions Pvt. Ltd., where I built and deployed zamanat.cloud—a full-scale EdTech and career-services platform powered by Google Gemini AI, PhonePe webhooks, BullMQ/Redis background workers, and automated QR-verified PDF certificates on an Ubuntu VPS.
+
+Education: B.Sc. in Information Technology — SIES College of Arts, Science & Commerce, Mumbai (2023 – 2026)
+
+What I Build: Scalable MERN/React applications, payment & webhook pipelines, AI-integrated workflows, and real-time dashboards
+
+Currently: Immediately available and open to Full-Stack / JavaScript Developer roles
 
 ---
 
